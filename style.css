@@ -43,8 +43,7 @@ body {
 }
 
 #logo {
-  position: absolute;
-  margin-top: -160px;
+  margin-bottom: 20%;
 }
 
 h1 {
